@@ -10,4 +10,9 @@ Please be aware that the use of Hidden APIs may potentially violate DMarket's te
 
 This project is licensed under the terms of the [MIT License](LICENSE). Please make sure to comply with the terms of the license when using this code in your projects.
 
-#Copyright (c) 2024 Dauwt
+## Automated Bots
+
+If you want an automated Bot for DMarket just go to Fiveer and talk with me!
+https://www.fiverr.com/s/2EGvYq
+
+Copyright (c) 2024 Dauwt
